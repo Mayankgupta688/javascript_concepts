@@ -24,5 +24,3 @@ var details = data.returnedData();
 data.returnedData();
 
 data.returnedData();
-
-debugger;
